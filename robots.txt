@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codigooo.vercel.app/sitemap.xml
