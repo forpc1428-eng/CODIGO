@@ -4,8 +4,8 @@
   Target leaf elements where possible so nested markup and styling stay intact.
 */
 window.SITE_CONFIG = {
-  title: 'CODIGO | Web App Development & Design',
-  description: 'CODIGO builds and designs web apps for clients worldwide.',
+  title: 'CODIGOOO | Web App Development & Design',
+  description: 'CODIGOOO builds and designs web apps for clients worldwide.',
   theme: {
     ink: '#0A0A0B',
     coal: '#131315',
@@ -22,7 +22,7 @@ window.SITE_CONFIG = {
     phone: '+919687524884',
     displayPhone: '+91 96875 24884',
     whatsapp: '+919687524884',
-    whatsappMessage: "Hi CODIGO, I'm interested in developing a web app. Can we discuss my project?",
+    whatsappMessage: "Hi CODIGOOO, I'm interested in developing a web app. Can we discuss my project?",
     serviceArea: 'Remote web app development and design for clients worldwide',
     availability: 'Available 24/7',
     responseTime: 'Replies within 1 hour'
@@ -59,10 +59,10 @@ window.SITE_CONFIG = {
       { id: 8, cat: 'ecom', tag: 'E-COM • BEAUTY', title: 'GLOWHAUS', sub: 'Skincare subscription that went viral', img: 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=900&q=80&auto=format&fit=crop', color: '#D4FF3F', stats: [['65k', 'Subscribers'], ['+400%', 'TikTok revenue'], ['4.9★', '12k reviews']], desc: 'Quiz-driven personalization, a subscription engine and a UGC wall. Glowhaus sold out four launches in a row. Their TikTok Shop integration did $1M in a single weekend.' }
     ],
     testimonials: [
-      { quote: "Codigo didn't build us a website. They built us a money machine. Conversion up 248% in 60 days. I've stopped questioning them — I just say yes now.", name: 'Sarah Chen', role: 'CEO, Velvet & Vice', img: 'https://i.pravatar.cc/100?img=47', metric: '+248% conversion' },
-      { quote: "Fastest team I've ever worked with. Prototype in 3 days, full app in 7 weeks. Apple featured us. Our investors think we hired 20 engineers. It was 5 Codigo killers.", name: 'Marcus Webb', role: 'Founder, Munchr', img: 'https://i.pravatar.cc/100?img=13', metric: '2.1M downloads' },
+      { quote: "Codigooo didn't build us a website. They built us a money machine. Conversion up 248% in 60 days. I've stopped questioning them — I just say yes now.", name: 'Sarah Chen', role: 'CEO, Velvet & Vice', img: 'https://i.pravatar.cc/100?img=47', metric: '+248% conversion' },
+      { quote: "Fastest team I've ever worked with. Prototype in 3 days, full app in 7 weeks. Apple featured us. Our investors think we hired 20 engineers. It was 5 Codigooo killers.", name: 'Marcus Webb', role: 'Founder, Munchr', img: 'https://i.pravatar.cc/100?img=13', metric: '2.1M downloads' },
       { quote: 'They think like co-founders, not vendors. Pushed back on my bad ideas, doubled down on the good ones. Our Series A deck was basically screenshots of their work.', name: 'Priya Sharma', role: 'CEO, Pulseboard', img: 'https://i.pravatar.cc/100?img=45', metric: '$12M Series A' },
-      { quote: "I've burned $200k on agencies before. Codigo delivered more in 6 weeks than others did in 6 months. Brutally honest, insanely talented, zero ego.", name: 'David Okafor', role: 'Founder, Forge', img: 'https://i.pravatar.cc/100?img=59', metric: '850k users, $0 ads' }
+      { quote: "I've burned $200k on agencies before. Codigooo delivered more in 6 weeks than others did in 6 months. Brutally honest, insanely talented, zero ego.", name: 'David Okafor', role: 'Founder, Forge', img: 'https://i.pravatar.cc/100?img=59', metric: '850k users, $0 ads' }
     ],
     steps: [
       { n: '01', t: 'DISCOVER', d: 'We learn about your users, goals, and competitors before defining the project scope.', tags: ['Strategy', 'Research', 'Scope'], time: 'Week 1' },
@@ -83,7 +83,7 @@ window.SITE_CONFIG = {
       ['REACT ⚛', 'NEXT.JS ▲', 'FLUTTER 💙', 'SWIFT 🍎', 'KOTLIN 🤖', 'NODE.JS 🟢', 'PYTHON 🐍', 'TYPESCRIPT 🔷'],
       ['AWS ☁️', 'OPENAI 🤖', 'STRIPE 💳', 'POSTGRES 🐘', 'FIGMA 🎨', 'WEBGL ✨', 'SUPABASE ⚡', 'DOCKER 🐳']
     ],
-    bootWords: ['WEB APP DEVELOPMENT', 'PRODUCT DESIGN', 'WORLDWIDE SERVICE', 'CODIGO', 'LET\'S BUILD SOMETHING']
+    bootWords: ['WEB APP DEVELOPMENT', 'PRODUCT DESIGN', 'WORLDWIDE SERVICE', 'CODIGOOO', 'LET\'S BUILD SOMETHING']
   },
   copy: {
     '#hero-clutch-copy': '#1 RATED DEV STUDIO ON CLUTCH 2026',
